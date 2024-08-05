@@ -12,6 +12,12 @@ La capacidad de procesar múltiples audios y la asistencia por chatbot destacan 
 Idiomas Español e inglés.
 Escalabilidad:  Potencialidad de agregar más de 10 idiomas gracias a Vosk, y sus modelos.
 
+**PARA HACER EL TEST**
+El repositorio incluye dos archivos:  **Audio_Prueba_ESPANOL.mp3** y **Audio_Prueba_INGLES.mp3** para hacer la prueba.
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------
 
