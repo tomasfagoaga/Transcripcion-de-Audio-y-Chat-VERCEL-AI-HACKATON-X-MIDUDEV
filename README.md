@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------
 
+NUEVA URL DE  PROYECTO DESPLEGADO:
+http://vercelaihackaton.ddns.net:3000/
 
 VERCEL AI HACKATON X MIDUDEV - POR TOMAS FAGOAGA - 2024  
 Transcripción de Audio y Chat - Asistente de comunicación IA
@@ -15,6 +17,8 @@ Escalabilidad:  Potencialidad de agregar más de 10 idiomas gracias a Vosk, y su
 **PARA HACER EL TEST**
 El repositorio incluye dos archivos:  **Audio_Prueba_ESPANOL.mp3** y **Audio_Prueba_INGLES.mp3** para hacer la prueba.
 
+NUEVA URL DE  PROYECTO DESPLEGADO:
+http://vercelaihackaton.ddns.net:3000/
 
 
 
